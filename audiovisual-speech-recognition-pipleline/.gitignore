@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+
+work/data/raw/*
+work/data/labs/*
+work/data/wavs/*
+work/data/jpgs/*
+
+work/feature_extraction_experimentation_audio/experiments/*
+work/feature_extraction_experimentation_audio/labels/*/*
+work/feature_extraction_experimentation_audio/recordings/*/*
+
+work/feature_extraction_experimentation_visual/experiments/*
+work/feature_extraction_experimentation_visual/labels/*/*
+work/feature_extraction_experimentation_visual/recordings/*/*
