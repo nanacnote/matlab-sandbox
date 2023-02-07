@@ -1,5 +1,5 @@
 build:
-	@docker build -t audio-visual-workflow:latest .
+	@docker build -t computer-vision-workflow:latest .
 
 serve:
 	@docker container run --rm \
@@ -8,4 +8,4 @@ serve:
 		--user root \
 		-e NB_GID=100 \
 		-v $(PWD)/work:/home/jovyan/work \
-		-it --name audio-visual-workflow audio-visual-workflow:latest \
+		-it --name computer-vision-workflow computer-vision-workflow:latest \
