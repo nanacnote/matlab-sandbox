@@ -1,4 +1,4 @@
-## Python | Octave | FFMPEG | HTK
+## Python | Octave
 
 A dockerised workflow for running Matlab scripts with Octave.
 
