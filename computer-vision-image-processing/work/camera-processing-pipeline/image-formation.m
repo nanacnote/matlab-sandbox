@@ -1,6 +1,6 @@
 % loop over the 24 macbeth reflectance and find the product 
 % with the chosen illuminant
-load("./seed-01.mat");
+load("./seed-image-formation.mat");
 
 % map the names from seed file to more meaningful ones
 daylight_illuminant             = D65;
